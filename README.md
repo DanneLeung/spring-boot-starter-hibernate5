@@ -7,7 +7,7 @@ This is a spring boot starter project for  hibernate 5.x auto configuration.
 
 
 ## Build locally
-run "git clone repo_url" to clone repository to your local driver, then run "mvn clean instal" command to build jar and install it to your local m2 repositoy.
+run "git clone repo_url" to clone repository to your local driver, then run "mvn clean install" command to build jar and install it to your local m2 repositoy.
 
 ## Add dependency
  add dependency to your project pom.xml
