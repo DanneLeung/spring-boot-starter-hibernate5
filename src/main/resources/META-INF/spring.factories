@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.xcesys.spring.boot.hibernate5.Hibernate5AutoConfiguration

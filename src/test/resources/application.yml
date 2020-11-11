@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    database: H2
+    driver-class-name: org.h2.Driver
+  hibernate5:
+    packages: com.xcesys.spring.boot.hibernate5.entity
+    properties:
+      hibernate:
+        hbm2ddl:
+           auto: update
+        dialect: org.hibernate.dialect.H2Dialect
